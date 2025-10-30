@@ -1,16 +1,11 @@
 # cs4750_hw3_shopping_cart
 
-A new Flutter project.
+Garrett Lo
+CS 4750
+10/30/2025
 
-## Getting Started
+Requesting Grade A
 
-This project is a starting point for a Flutter application.
+Github Link: https://github.com/Synthereal/cs4750_hw3_shopping_cart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Youtube Demo: https://youtu.be/nTAZMqO5EMY
